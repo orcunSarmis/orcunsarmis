@@ -6,13 +6,8 @@ Full-stack web developer currently working for Stomble Software Engineering. I h
 * ⚛ React
 * 🖥 HTML, CSS, JS
 
-* Node.JS
-* MERN
-* NoSQL
-* MongoDB
-* Express.js
-* GraphQL
-* MySQL
+* Node.JS * MERN * NoSQL * MongoDB
+* Express.js * GraphQL * MySQL
 
 - 🔭 I’m currently working on Stomble Software Engineering 
 - 🌱 I’m currently learning AWS 
