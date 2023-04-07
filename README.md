@@ -4,7 +4,7 @@ Full-stack web developer currently working for Stomble Software Engineering. I h
 
 ## Skills and Experience
 * ⚛ React 
-*   ![image]({https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D}) 
+*  <img src="{{https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D}" /> 
 * 🖥 HTML, CSS, JS
 
 * Node.JS / MERN / NoSQL / MongoDB
